@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="480" viewBox="0 0 1440 480" role="img" aria-labelledby="title desc">
+  <title id="title">Usman Mehboob Mohammed, AI and Software Engineer</title>
+  <desc id="desc">Computer Science at ASU. LLM research and software engineering. Previously SunTec. Full-time after May 2027.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#131323"/><stop offset="1" stop-color="#080c15"/></linearGradient>
+    <linearGradient id="ink" x2="1" y2="0"><stop stop-color="#e7dfff"/><stop offset=".55" stop-color="#c3b3ff"/><stop offset="1" stop-color="#87ecdf"/></linearGradient>
+    <linearGradient id="line" x2="1" y2="1"><stop stop-color="#b39afa"/><stop offset="1" stop-color="#72dbc9"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#8e6be8" stop-opacity=".16"/><stop offset="1" stop-color="#8e6be8" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9899bf" opacity=".15"/></pattern>
+  </defs>
+  <rect width="1440" height="480" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1438" height="478" rx="19" fill="none" stroke="#343348"/>
+  <rect x="860" y="20" width="560" height="440" fill="url(#dots)"/>
+  <ellipse cx="1140" cy="235" rx="300" ry="270" fill="url(#glow)"/>
+  <path d="M55 54h30" stroke="#b8a0ff" stroke-width="4"/>
+  <text x="100" y="61" fill="#b7a4ed" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">AI &amp; SOFTWARE ENGINEER</text>
+  <text x="55" y="114" fill="#eff0f6" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="600">Hi, I'm</text>
+  <text x="52" y="204" fill="#f2f1f8" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="700" letter-spacing="-3">Usman Mehboob</text>
+  <text x="52" y="286" fill="url(#ink)" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="700" letter-spacing="-3">Mohammed</text>
+  <text x="57" y="335" fill="#a4a9bd" font-family="Arial, Helvetica, sans-serif" font-size="20">LLM research at ASU. Previously SunTec.</text>
+  <line x1="56" y1="375" x2="801" y2="375" stroke="#343348"/>
+  <text x="57" y="418" fill="#ced0df" font-family="Arial, Helvetica, sans-serif" font-size="17">ASU MS CS</text>
+  <circle cx="187" cy="412" r="2" fill="#74748c"/>
+  <text x="209" y="418" fill="#ced0df" font-family="Arial, Helvetica, sans-serif" font-size="17">ex-SunTec</text>
+  <circle cx="333" cy="412" r="2" fill="#74748c"/>
+  <circle cx="357" cy="412" r="5" fill="#85e5cc"/>
+  <text x="373" y="418" fill="#85e5cc" font-family="Arial, Helvetica, sans-serif" font-size="17">Full-time after May 2027</text>
+  <g fill="none" stroke="#34354b" stroke-width="1.2">
+    <path d="M959 112h260l100 100v130l-80 80H979l-85-85V177z"/>
+    <path d="M999 151h202l77 78v95l-56 57h-220l-66-65V214z"/>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="2.4">
+    <path d="M1010 160v73h97v89h123"/>
+    <path d="M1010 233h-63v89h84" opacity=".5"/>
+    <path d="M1107 233h123v-73" opacity=".65"/>
+    <path d="M1107 322v58" opacity=".5"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="951" y="122" width="151" height="59" rx="12" fill="#1d1b30" stroke="#756394"/>
+    <circle cx="974" cy="151" r="4" fill="#c8afff"/>
+    <text x="990" y="157" fill="#e2d5ff" font-size="16" font-weight="600">LLMs</text>
+    <rect x="1059" y="207" width="142" height="59" rx="12" fill="#161f2a" stroke="#586c7b"/>
+    <circle cx="1082" cy="236" r="4" fill="#a4c2f0"/>
+    <text x="1098" y="242" fill="#d3e2f9" font-size="16" font-weight="600">Agents</text>
+    <rect x="1167" y="295" width="151" height="59" rx="12" fill="#132822" stroke="#52776d"/>
+    <circle cx="1191" cy="324" r="4" fill="#85e5cc"/>
+    <text x="1207" y="330" fill="#b9f2df" font-size="16" font-weight="600">Software</text>
+    <text x="995" y="411" fill="#686f86" font-family="monospace" font-size="13" letter-spacing="2">BASED IN TEMPE, ARIZONA</text>
+  </g>
+</svg>
