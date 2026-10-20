@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" width="100%" alt="Usman Mehboob Mohammed. AI and software engineer, ASU MS CS, previously SunTec. Looking for full-time work after May 2027." />
+  <img src="assets/profile-banner.png" width="100%" alt="Usman Mehboob Mohammed, AI &amp; Software Engineer. Arizona State University, Tempe. Palm-lined walkway at sunset." />
 </p>
 
 <p align="center">
