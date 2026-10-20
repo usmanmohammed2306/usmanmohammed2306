@@ -12,7 +12,7 @@
 
 ## About me
 
-I'm Usman, a Computer Science master's student at **Arizona State University**, graduating in **May 2027**. My current GPA is **4.00/4.00**. I'm also a Research Intern in the Cognition and Intelligence Lab, advised by **Prof. Chitta Baral**, where I work on LLM post-training and evaluation.
+I'm Usman, a Computer Science master's student at **Arizona State University**, graduating in **May 2027**. My current GPA is **4.00/4.00**. I'm also a member of **Prof. Chitta Baral's Cognition and Intelligence Lab** at ASU, where I've worked on LLM post-training and evaluation.
 
 Before ASU, I spent **2 years 9 months at SunTec** working on financial software with Java, Spring Boot, SQL, Docker and AWS. These days, most of my work involves LLMs, agents and retrieval, along with the APIs and interfaces needed to use them.
 
